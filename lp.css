@@ -126,8 +126,8 @@ padding: 40px 20px;
 max-width: 1200px;
 text-align: center;
 margin-bottom: 78px;
-margin-left: auto; /* Center align */
-margin-right: auto; /* Center align */
+margin-left: auto;
+margin-right: auto; 
 flex-wrap: wrap;
 }
 
