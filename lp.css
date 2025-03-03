@@ -113,3 +113,45 @@ nav ul .CTA-button {
     border-radius: 10px;
     object-fit: cover;
 }
+
+/*Categories*/
+
+.categories {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.category {
+    flex: 1;
+    max-width: 250px;
+    text-align: center;
+}
+
+.category img {
+    width: 100%; /* Make images uniform */
+    height: 200px; /* Fixed height for consistency */
+    object-fit: cover; /* Crop images to fit */
+    border-radius: 10px;
+  }
+
+  .btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #c47f5f;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+  
+.btn:hover {
+    background-color: #6d4c41;
+}
