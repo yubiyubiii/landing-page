@@ -116,25 +116,36 @@ nav ul .CTA-button {
 
 /*Categories*/
 
-.categories {
+.categories2 {
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
+    flex-direction: row;
     align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    padding: 20px;
+    justify-content: center;
+    gap: 54px;
+    padding: 40px 20px;
     max-width: 1200px;
-    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 78px;
+    margin-left: 142px;
 }
 
-.category {
+.categories h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+    color: #6d4c41;
+    margin-top: 70px;
+}
+
+.category2 {
     flex: 1;
     max-width: 250px;
     text-align: center;
 }
 
-.category img {
+.category2 img {
     width: 100%; /* Make images uniform */
     height: 200px; /* Fixed height for consistency */
     object-fit: cover; /* Crop images to fit */
@@ -161,7 +172,7 @@ nav ul .CTA-button {
 .quotes {
     text-align: center;
     font-style: italic;
-    padding: 40px;
+    padding: 183px;
     background-color: #6d4c41;
     color: #e0d8c8;
 }
@@ -169,6 +180,7 @@ nav ul .CTA-button {
 .quotes h2 {
     font-size: 24px;
     margin-bottom: 10px;
+    font-size: 37px;
 }
 
 .quotes p {
@@ -177,7 +189,7 @@ nav ul .CTA-button {
 }
 
 blockquote {
-    font-size: 20px;
+    font-size: 30px;
     max-width: 600px;
     margin: 0 auto;
     line-height: 1.5;
