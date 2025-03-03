@@ -211,3 +211,23 @@ blockquote {
     font-size: 16px;
     font-weight: bold;
 }
+
+/*footer*/
+
+.footer {
+    text-align: center;
+    background-color: #6d4c41;
+    padding: 20px;
+    color: #e0d8c8;
+    font-size: 14px;
+}
+
+.footer a {
+    color: #e0d8c8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a :hover {
+    text-decoration: underline;
+}
