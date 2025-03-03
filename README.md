@@ -2,12 +2,6 @@
 
 # Overview
 # This project is part of The Odin Project curriculum and allows me to practice building a landing page from a provided design while improving my web development skills. The goal is to enhance my understanding of HTML, CSS, layout techniques, and responsive design by copying the structure and styling as closely as possible.
-# This project helps me develop problem-solving skills, research abilities, and adaptability, just like in real-world development. While the aim is to match the design, pixel-perfect accuracy is not required. Instead, I'll focus on:
-- Structuring clean and semantic HTML.
-- Applying CSS for layout and styling.
-- Using Flexbox and Grid effectively.
-- Ensuring responsiveness across different screen sizes.
-- Customizing aspects of the design, such as images and content, to make it my own.
 
 # Future Improvements
 - Improve accessibility with ARIA attributes and better semantic HTML.
@@ -18,3 +12,8 @@
 - Deepen my understanding of design consistency, spacing, and typography.
   
 # This project is a stepping stone in my journey to becoming a better full-stack web developer by applying my knowledge to a real-world-style project.
+# Sources of the images that I used in this project:
+-Logo Design: https://www.canva.com/templates/EAGU9d59d84-brown-cream-illustrative-bold-typographic-coffee-shop-logo/
+-View Menu: https://cuppaespresso.com/products/cuppa-chemex-dripper-server-with-wooden-handle
+-Our Story and Visit us: https://www.decoist.com/modern-japanese-cafe-home/
+-Special Offers: https://bestcoffeebeans.org/caffeinated-coffee/
