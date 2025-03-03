@@ -114,21 +114,21 @@ nav ul .CTA-button {
     object-fit: cover;
 }
 
-/*Categories*/
+/*Categories Design*/
 
 .categories2 {
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-gap: 54px;
-padding: 40px 20px;
-max-width: 1200px;
-text-align: center;
-margin-bottom: 78px;
-margin-left: auto;
-margin-right: auto; 
-flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 54px;
+    padding: 40px 20px;
+    max-width: 1200px;
+    text-align: center;
+    margin-bottom: 78px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
 }
 
 .categories h2 {
@@ -148,13 +148,16 @@ flex-wrap: wrap;
 }
 
 .category2 img {
-    width: 100%; /* Make images uniform */
-    height: 200px; /* Fixed height for consistency */
-    object-fit: cover; /* Crop images to fit */
+    width: 100%;
+    /* Make images uniform */
+    height: 200px;
+    /* Fixed height for consistency */
+    object-fit: cover;
+    /* Crop images to fit */
     border-radius: 10px;
-  }
+}
 
-  .btn {
+.btn {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 15px;
@@ -164,12 +167,12 @@ flex-wrap: wrap;
     border-radius: 5px;
     font-weight: bold;
 }
-  
+
 .btn:hover {
     background-color: #6d4c41;
 }
 
-/*quotes*/
+/*Quotes Design*/
 
 .quotes {
     text-align: center;
@@ -197,7 +200,7 @@ blockquote {
     line-height: 1.5;
 }
 
-/*Sign-up*/
+/*Sign-up Design*/
 .sign-up {
     text-align: center;
     padding: 40px;
@@ -226,7 +229,7 @@ blockquote {
     font-weight: bold;
 }
 
-/*footer*/
+/*Footer Design*/
 
 .footer {
     text-align: center;
