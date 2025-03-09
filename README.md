@@ -14,6 +14,6 @@
 # This project is a stepping stone in my journey to becoming a better full-stack web developer by applying my knowledge to a real-world-style project.
 # Sources of the images that I used in this project:
 - Logo Design: https://www.canva.com/templates/EAGU9d59d84-brown-cream-illustrative-bold-typographic-coffee-shop-logo/
-- View Menu: https://cuppaespresso.com/products/cuppa-chemex-dripper-server-with-wooden-handle
-- Our Story and Visit us: https://www.decoist.com/modern-japanese-cafe-home/
-- Special Offers: https://bestcoffeebeans.org/caffeinated-coffee/
+- https://cuppaespresso.com/products/cuppa-chemex-dripper-server-with-wooden-handle
+- https://www.decoist.com/modern-japanese-cafe-home/
+- https://bestcoffeebeans.org/caffeinated-coffee/
